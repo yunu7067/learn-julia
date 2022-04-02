@@ -1,5 +1,7 @@
 # 줄리아
 
+[학습 메뉴얼](https://docs.julialang.org/en/v1/manual/getting-started/)
+
 ## 전역 변수
 
 - `PROGRAM_FILE` : 실행 파일명
